@@ -1,0 +1,43 @@
+---
+title: "Eric Polley, Ph.D."
+image: "headshot_bw.jpeg"
+links:
+  - label: UChicago
+    url: "https://health.uchicago.edu/faculty/eric-polley-phd"
+  - label: Twitter
+    url: "https://twitter.com/ecpolley"
+  - label: GitHub
+    url: "https://github.com/ecpolley"
+  - label: Email
+    url: "mailto:epolley@uchicago.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Eric Polley, Ph.D. is an Associate Professor in the Department of Public Health Sciences at the University of Chicago where he is the faculty director for the Data Science in Public Health concentration in the Masters of Public Health program. Dr. Polley was previuosly an Assistant Professor of Biostatistics in the Department of Quantitative Health Sciences at Mayo Clinic. He recieved his PhD in biostatistics from the University of California, Berkeley in 2010. With Mark van der Laan, they developed the super learner ensemble prediction methodology. Prior to joining Mayo, Dr. Polley was a mathematical statistician in the Biometrics Research Branch at the US National Cancer Institute. His research area involves the development and evaluation of prediction methods, innovative methods for diagnostic and prognostic prediction, and precision medicine clinical trial designs.
+
+## Education
+
+**National Cancer Institute** | Bethesda, MD
+
+Post-doctoral fellowship in Computational Biology | 2010 - 2012
+
+**The University of California, Berkeley** | Berkeley, CA
+
+Ph.D. in Biostatistics | 2005 - 2010
+
+**Columbia Univerisity** | New York City, NY
+
+M.S. in Biostatistics | 2003 - 2005
+
+**Saint John's University** | Collegeville, MN
+
+B.A. in Mathematics | 1999 - 2003
+
+## Experience
+
+**Mayo Clinic** | Assistant Professor of Biostatistics | 2016 - 2021
+
+**National Cancer Institute** | Mathematical Statistician | 2012 - 2016
