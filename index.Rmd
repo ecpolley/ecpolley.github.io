@@ -1,6 +1,6 @@
 ---
 title: "Eric Polley, Ph.D."
-image: "headshot_bw.jpeg"
+image: "EricPolley-byJasonSmith-1119.jpg"
 links:
   - label: UChicago
     url: "https://health.uchicago.edu/faculty/eric-polley-phd"
